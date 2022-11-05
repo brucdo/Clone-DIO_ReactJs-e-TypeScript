@@ -1,0 +1,7 @@
+{
+    "users": [
+        {"id":1, "name":"Demi", "email":"demi@fofin.ha", "senha":"123456"},
+        {"id":2, "name":"Nick", "email":"nick@fofin.ho", "senha":"123456"},
+        {"id":3, "name":"Teste", "email":"teste2@email.com", "senha":"123456"}
+    ]
+}
