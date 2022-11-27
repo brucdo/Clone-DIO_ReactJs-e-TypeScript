@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 import bannerImage from '../../assets/banner.png';
 
@@ -35,9 +35,6 @@ const Home = () => {
           <img src={bannerImage} alt='Imagem principal' />
         </div>
       </Container>
-      <Button title='Teste 1' />
-      <Button title='Teste 2' variant="secondary" />
-      <Link to='/login'>Login</Link>
     </>
   )
 }
